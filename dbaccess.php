@@ -40,5 +40,6 @@ $password = '520230Kk.';
    <?php foreach ($rec as $a):?>
    <?=escape1($a)?><br>
    <?php endforeach; ?>
+   Add comment by Mamoru Ito
  </body>
  </html>
